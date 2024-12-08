@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6252e4,100:71bd94&text=Gorani&section=header&reversal=false&textBg=false&fontAlign=50&fontColor=fff)
+![](https://cdn.discordapp.com/attachments/1313484261180833816/1315273399320186992/31132783565855ca.png?ex=6756cf4e&is=67557dce&hm=f9ecf94f7d5b5c2e8e976140543be3fb53596e54819243292d5fffcf5571c5d4&)
 # 💫 About Me:
 
 🍀 웹 개발에 관한 경험이 있습니다<br>🌱 알고리즘에 대해 학습하고 있습니다<br>🔥 대구 소프트웨어 마이스터 고등학교에 진학할 계획입니다<br>🔭 AI에 큰 관심이 있어 미래에 학습할 계획입니다.
