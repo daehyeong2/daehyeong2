@@ -48,5 +48,5 @@
 - 데일 카네기 인간관계론 _(저자: 데일 카네기)_ (읽는 중)
 
 ---
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=daehyeong2)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
