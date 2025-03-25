@@ -48,5 +48,14 @@
 - 데일 카네기 인간관계론 _(저자: 데일 카네기)_ (읽는 중)
 
 ---
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=daehyeong2&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/daehyeong2"
+  width="600"
+  height="300"
+/>
+</a>
+
+
 ![](https://komarev.com/ghpvc/?username=daehyeong2)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
