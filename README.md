@@ -49,13 +49,7 @@
 
 ---
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=daehyeong2&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/daehyeong2?pet-id=692172052134885945"
-    width="600"
-    height="120"
-  />
-</a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gorani1231)](https://solved.ac/gorani1231)
 
 ![](https://komarev.com/ghpvc/?username=daehyeong2)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
