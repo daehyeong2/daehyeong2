@@ -33,7 +33,7 @@
 
 - [ArtifyThumbs](https://github.com/daehyeong2/ArtifyThumbs-frontend) - 간편하게 그림을 신청하고 받을 수 있는 서비스 (2024.3)
 - [Stem Medix](https://github.com/daehyeong2/stem-medix) - 가상의 의료 연구 기업 소개 웹 사이트 (2024.6)
-- [Sh4re](https://github.com/team-sw1tch) - 학교 파이썬 수업 시간 중 코드 공유를 쉽게 해주는 플랫폼 (2025.5)
+- [Sh4re](https://github.com/team-un1qode) - 학교 파이썬 수업 시간 중 코드 공유를 쉽게 해주는 플랫폼 (2025.5)
 # 🏆 Awards
 
 - 정보활용상 - (2023.2.10 / 초6)
