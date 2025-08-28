@@ -22,12 +22,6 @@
 ## DB / ORM
 
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) 
- 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=daehyeong2&theme=algolia&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=daehyeong2&theme=algolia&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daehyeong2&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # 📂 Projects
 
@@ -37,8 +31,19 @@
 - [Amino Acid Dictionary](https://github.com/daehyeong2/science-project) - DNA의 3염기조합 각각이 지정하는 아미노산을 시각적으로 쉽게 알아볼 수 있는 웹 사이트 (2025.05)
 # 🏆 Awards
 
-- 정보활용상 - (2023.2.10 / 초6)
-- 제 9회 소프트웨어 사고력 올림피아드 동상 - (2023.9.17 / 중1)
+- 제 9회 소프트웨어 사고력 올림피아드 동상 - (2023.9.17)
+- DGSW 과학 교과우수상 - (2025.07.22)
+- U/ 해커톤 입선 - (2025.07.26)
+- Highthon 해커톤 입선 - (2025.08.02)
+- 제 4회 데이터 크리에이터 캠프 입선 - (2025.08.13)
+
+# 📚 교육 수료
+
+- 제 4회 데이터 크리에이터 캠프 인공지능 교육 수료 - (2025.08.13)
+- 컴퓨터 시스템 일반 전공 교과목 수료 - (1st grade in DGSW)
+- 웹 기초 교과목 수료 - (1st grade in DGSW)
+- 인공지능 기초 - (1st grade in DGSW)
+
 # 📖 Reading
 
 - 역행자 _(저자: 자청)_
