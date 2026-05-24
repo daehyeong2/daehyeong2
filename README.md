@@ -1,3 +1,5 @@
+## 해당 README.md는 리뉴얼될 예정입니다. (오래 업데이트되지 않음)
+
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6252e4,100:71bd94&text=Gorani&section=header&reversal=false&textBg=false&fontAlign=50&fontColor=fff)
 # 💫 About Me:
 
